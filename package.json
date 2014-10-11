@@ -1,0 +1,33 @@
+{
+  "name": "jqb-subscribable",
+  "version": "0.0.0",
+  "description": "implements a simple pub/sub channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jQbrick/jqb-subscribable"
+  },
+  "keywords": [
+    "array",
+    "isarray",
+    "test",
+    "jqbrick"
+  ],
+  "author": {
+    "name": "Marco Pegoraro",
+    "url": "http://movableapp.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jQbrick/jqb-subscribable/issues"
+  },
+  "homepage": "https://github.com/jQbrick/jqb-subscribable",
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "grunt-mocha-chai-sinon": "~0.0.8",
+    "grunt-contrib-watch": "~0.6.1"
+  }
+}
